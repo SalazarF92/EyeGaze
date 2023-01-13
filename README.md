@@ -14,7 +14,7 @@ Description
 
   This repository is focused on using OpenCV for eyetracking research.The main goal is to accurately track the position of the eyes and head,
   converting that information into a position on a screen.  The software is still under development, but has shown promising results so far.
-  I have the intention to convert this layout with something more friendly to use as a future app.
+  I have the intention to convert this layout with something more friendly to use as a future application.
   
   As soon as possible I gonna be writing an article talking about specially of the mediapipe!
 
