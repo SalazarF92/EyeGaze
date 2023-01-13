@@ -4,7 +4,7 @@ My personal code in development about eyetracking.
 [![author](https://img.shields.io/badge/author-FlavioSalazar-red.svg)](https://www.linkedin.com/in/flavio-salazar-57994b187) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/salazarf92/EyeGaze/issues)
 
 <p align="center">
-  <img src="transfer.jpg" width="300px" heigth="120px" >
+  <img src="eye_tracking.jpg" width="7200px" heigth="320px" >
 </p>
 
 # Flavio Salazar
