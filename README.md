@@ -16,7 +16,7 @@ Description
   converting that information into a position on a screen.  The software is still under development, but has shown promising results so far.
   I have the intention to convert this layout with something more friendly to use as a future application.
   
-  As soon as possible I gonna be writing an article talking about specially of the mediapipe!
+  As soon as possible I gonna be writing an article talking about specially of mediapipe!
 
 **Background in:** Python with OpenCV, Mediapipe, Pandas and Numpy
 
