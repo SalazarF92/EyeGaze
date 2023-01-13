@@ -20,7 +20,6 @@ Description
   
   **To run this draft, just install the requirements (notice that I'm using Python3.8), and when the program runs, look into each dot and click over it. When you mark the nine dots, press the button "Click Me" and then it's gonna start to draw a dot that represents where you are looking at.**
   
-  AND I KNOW HAVE TO FIX EVERYTHING ABOUT THE FUNCTION SCOPING, I'M WORKING ON IT HAHA
 
 **Background in:** Python with OpenCV, Mediapipe, Pandas and Numpy
 
